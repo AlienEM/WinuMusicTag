@@ -58,4 +58,8 @@
       "button_bg_color": "Kolor tła przycisku",
       "active_button_background_color": "Kolor tła aktywnego przycisku",
       "music_select_field_background_color": "Kolor tła pola wyboru muzyki",
-      "save_button_background_color": "Kolor t
+      "save_button_background_color": "Kolor tła przycisku Zapisz",
+      "reset_button_background_color": "Kolor tła przycisku Resetuj"
+    }
+  }
+}
